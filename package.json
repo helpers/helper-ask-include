@@ -1,0 +1,47 @@
+{
+  "name": "helper-ask-include",
+  "description": "Async template helper that prompts the user to choose the `include` or `includes` to render.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/helpers/helper-ask-include",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "helpers/helper-ask-include",
+  "bugs": {
+    "url": "https://github.com/helpers/helper-ask-include/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "dependencies": {
+    "async-array-reduce": "^0.1.0",
+    "is-answer": "^0.1.0",
+    "isobject": "^2.1.0"
+  },
+  "devDependencies": {
+    "base-questions": "^0.6.6",
+    "engine-base": "^0.1.2",
+    "gulp-format-md": "*",
+    "mocha": "*",
+    "templates": "^0.22.4"
+  },
+  "keywords": [],
+  "verb": {
+    "layout": "default",
+    "plugins": [
+      "gulp-format-md"
+    ],
+    "related": {
+      "list": []
+    },
+    "reflinks": [
+      "verb"
+    ]
+  }
+}
