@@ -20,18 +20,26 @@
     "test": "mocha"
   },
   "dependencies": {
-    "async-array-reduce": "^0.1.0",
-    "is-answer": "^0.1.0",
-    "isobject": "^2.1.0"
+    "async-array-reduce": "^0.2.1",
+    "is-answer": "^0.1.1",
+    "isobject": "^3.0.0"
   },
   "devDependencies": {
-    "base-questions": "^0.6.6",
-    "engine-base": "^0.1.2",
-    "gulp-format-md": "*",
-    "mocha": "*",
-    "templates": "^0.22.4"
+    "base-questions": "^0.9.1",
+    "engine-base": "^0.1.3",
+    "gulp-format-md": "^0.1.11",
+    "templates": "^1.2.7"
   },
-  "keywords": [],
+  "keywords": [
+    "ask",
+    "compile",
+    "helper",
+    "helpers",
+    "include",
+    "render",
+    "template",
+    "templates"
+  ],
   "verb": {
     "layout": "default",
     "plugins": [
