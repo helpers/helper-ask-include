@@ -1,7 +1,7 @@
 {
   "name": "helper-ask-include",
   "description": "Async template helper that prompts the user to choose the `include` or `includes` to render.",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/helpers/helper-ask-include",
   "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
   "repository": "helpers/helper-ask-include",
